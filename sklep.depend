@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1708593955 source:c:\users\angel\desktop\nowe projekciki ez\sklep\main.cpp
+	"sklepik.h"
+
+1708593947 c:\users\angel\desktop\nowe projekciki ez\sklep\sklepik.h
+	<iostream>
+	<vector>
+	<string>
+
